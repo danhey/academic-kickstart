@@ -1,0 +1,12 @@
+---
+title: "Rotation and Pulsation in Ap Stars: First Light Results from TESS Sectors 1 and 2"
+date: 2019-08-01
+publishDate: 2020-01-21T06:17:48.417142Z
+authors: ["M. S. Cunha", "V. Antoci", "D. L. Holdsworth", "D. W. Kurtz", "L. A. Balona", "Zs Bognár", "D. M. Bowman", "Z. Guo", "P. A. Kołaczek-Szymanski", "M. Lares-Martiz", "E. Paunzen", "M. Skarka", "B. Smalley", "Á Sódor", "O. Kochukhov", "J. Pepper", "T. Richey-Yowell", "G. R. Ricker", "S. Seager", "D. L. Buzasi", "L. Fox-Machado", "A. Hasanzadeh", "E. Niemczura", "P. Quitral-Manosalva", "M. J. P. F. G. Monteiro", "I. Stateva", "P. De Cat", "A. García Hernández", "H. Ghasemi", "G. Handler", "**D. Hey**", "J. M. Matthews", "J. M. Nemec", "J. Pascual-Granado", "H. Safari", "J. C. Suárez", "R. Szabó", "A. Tkachenko", "W. W. Weiss"]
+publication_types: ["2"]
+abstract: "We present the first results from the Transiting Exoplanet Survey Satellite (TESS) on the rotational and pulsational variability of magnetic chemically peculiar A-type stars. We analyse TESS 2-min cadence data from sectors 1 and 2 on a sample of 83 stars. Five new rapidly oscillating Ap (roAp) stars are announced. One of these pulsates with periods around 4.7 min, making it the shortest period roAp star known to date. Four out of the five new roAp stars are multiperiodic. Three of these and the singly periodic one show the presence of rotational mode splitting. Individual frequencies are provided in all cases. In addition, seven previously known roAp stars are analysed. Additional modes of oscillation are found in some stars, while in others we are able to distinguish the true pulsations from possible aliases present in the ground-based data. We find that the pulsation amplitude in the TESS filter is typically a factor of 6 smaller than that in the B filter, which is usually used for ground-based observations. For four roAp stars we set constraints on the inclination angle and magnetic obliquity, through the application of the oblique pulsator model. We also confirm the absence of roAp-type pulsations down to amplitude limits of 6 and 13 μmag, respectively, in two of the best characterized non-oscillating Ap (noAp) stars. We announce 27 new rotational variables along with their rotation periods, and provide different rotation periods for seven other stars. Finally, we discuss how these results challenge state-of-the-art pulsation models for roAp stars."
+featured: false
+publication: "*Monthly Notices of the Royal Astronomical Society*"
+doi: "10.1093/mnras/stz1332"
+---
+
